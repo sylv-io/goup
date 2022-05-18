@@ -29,7 +29,6 @@ func init() {
 	ProfileFiles = []string{
 		filepath.Join(homedir, ".profile"),
 		filepath.Join(homedir, ".zprofile"),
-		filepath.Join(homedir, ".bash_profile"),
 	}
 }
 
